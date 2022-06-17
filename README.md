@@ -6,9 +6,6 @@ Hi! My name is James Sturges, a technical consultant and software development pr
 
 StockTakes: Coming soon!
 
-## GitHub
-I'm semi-active on [GitHub](https://github.com/jamessturges), check out what I've been working on!
-
 ## Contact
 Email me at [jamessturgesiii@gmail.com](mailto:jamessturgesiii@gmail.com)
 
