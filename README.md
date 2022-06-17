@@ -1,15 +1,15 @@
-Welcome to my website!
+# Welcome to my website!
 Hi! My name is James Sturges, a technical consultant and software development professional.
 
-Projects
-Dall-E mini buddy, a way to access DALL-E mini in a more user-friendly manner.
+## Projects
+[Dall-E mini buddy](dalleminibuddy.sturges.dev), a way to access DALL-E mini in a more user-friendly manner.
 
 StockTakes: Coming soon!
 
-GitHub
-I'm semi-active on GitHub, check out what I've been working on!
+## GitHub
+I'm semi-active on [GitHub](https://github.com/jamessturges), check out what I've been working on!
 
-Contact
-Email me at jamessturgesiii@gmail.com
+## Contact
+Email me at [jamessturgesiii@gmail.com](mailto:jamessturgesiii@gmail.com)
 
-Connect with me on LinkedIn
+Connect with me on [LinkedIn](https://linkedin.com/in/jameswsturges)
