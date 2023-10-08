@@ -1,5 +1,5 @@
-# Welcome to my website!
-Hi! My name is James Sturges, a technical consultant and software development professional.
+# Welcome!
+Hi! My name is James Sturges, a solutions architect specializing in the field of enterprise data management.
 
 ## Contact
 Email me at [james@sturges.dev](mailto:james@sturges.dev)
